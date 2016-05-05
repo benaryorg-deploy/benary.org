@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/benaryorg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://benary.org
+  * I am benaryorg (https://keybase.io/benaryorg) on keybase.
+  * I have a public key with fingerprint 4A1B 3155 6D86 7198 1370  C471 D007 3D31 AB13 D7F8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "4a1b31556d8671981370c471d0073d31ab13d7f8",
+            "host": "keybase.io",
+            "key_id": "D0073D31AB13D7F8",
+            "uid": "9da6fe034ac1278a553430917cae4219",
+            "username": "benaryorg"
+        },
+        "merkle_root": {
+            "ctime": 1427959256,
+            "hash": "67baea4623c494afb93624259495c1ffce51e2ef443efa3e2b84798961cf0ab9d723bd069bd314390ae8baaf58206cd64e6353b9f2fbdfd873b12c4bdc2212bb",
+            "seqno": 188409
+        },
+        "service": {
+            "hostname": "benary.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1427959367,
+    "expire_in": 157680000,
+    "prev": "7a571b3c9c91cb8c632253b2b2ab7de9edcf11e52b081ef6a72245abef4038ad",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVkntMllUcx8ECIUYgAmoyL88KQi4+55znCmihjEptxUrFYns553nO8/IKvC8+
+78vllYEpmNGGgAw2C7msqRDUuM0Iy2prCTS5FGgXcGKQkCQmY5JtredxtuL8dS6f
+8z3f7+93Kv0f8/DxHF65DbSuvrbk+e0s8dgbdueFQoY4VDcTV8goWTZqd5kzO86m
+TByTSd0EO2mszbHJ7lBp7EHnpkdMNJNHdafNYTcoNlaMFZmiaBM3L2s2u5XqObrN
+1GI4DAgCPC+okiACWQJIZBVOBCrLikhFABOAVFGTDMkMh9O17FXmoabFphq7SSaf
+hEDiDoCSxGSTz314IKtY0CiLOKwAKEqY5xGHWBmICqYcBLIJOqn+KBKhdqy7HbrV
+NJxN9cwsatEdjoepFZfNZAAHRZmXIS8YlrAzw7gliARTzAkQKZzMYY3ISIAc5GVO
+5hWgaQrlAYVU4zhENYwoJBInypIsAEVjMZFVESKisoJMjMQckllMJYKxxkuQFRRV
+4KiAeERkDWpE1VRJRARAhSOqAiGAhBgZnPSQ3WGYkySOlYvMtZ5nU6jp26zbsnix
+Zr5oJkd3uByKI8vYz3C5cpxxZmaXO8cE8ymxfPRIw0JsdtVo2v+7Cgx0eT2QIEYz
+tCDHplOLzSR4UZBYY5gP0TxDU8S8aDRbkRUZKERSBAShkQoSiImoUpmqigYA5SFh
+JUA1AYsQcjwmRt1YJGH1v5Sc4RNbDUmnzWrHrlydMkVlK8Ie9/D08fD2WmF+W48n
+fAP//cvusUCPmu1VAfFlx8833SletVtZ6qoaIyuTvm89GvvG+GBh8NBnYXUw59LK
+dZFRPy/4bxh77chhb+/wscF65uquRNedD1c0RPVZEk7eKNDXDB1rrIz8a1XoYG/i
+y5OZT3tmDBz+qdmasvPSp5P2c6XJ60uGInrXlzZ/HfR+KJz3K52tCp7Lu7q5870r
+4Z7sDwN/5CVEFQe2JbutIOXj8cZ750LKI2mJXPsmWmi8AZ5r6L9d8fpExK+J7zyT
+eS1q6ZPF1DUDQz7e+zo33tqSXnv2AA3tr74ckmn3H953vzYuyy8G0+0JtMBb3pNw
+zM/Pf3SH9eTzPQdTt9a0udu9L2T/eDIV/Q5vBtaIeVVvB0yl754Pf9E923sq/WZz
+wepTaet23v0lpHt/XHFd/p6shYWp+Ad7yzaPpzbXDA1bykduV3tVH52+mDwupfRc
+6Sv/oruu6Lw17b7Lr2mu5tCuqvKOJ4fR0nzYwFJXz8WR7PjRty6wGZHbftvvG9OR
+cGyysulu0OhifECA/Xpq6La0rhMpnS0fsPD0KyHbg8LblLK+iPbq01t03wN0Yro+
+OCh5rL6oTOTcLdn5r16eOcH2u74p3FpcXLu2JLGCIb4zJd9Njcx3rf+zJ+NMO1u9
+9NLZW8fbFsOnur76u+Hdza3NZ75c6zUz8eDIXPu9xIjrHc9WbJgOCNj4VHdCSW73
+50e4luGYfwA=
+=LPlg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benaryorg
+
+==================================================================

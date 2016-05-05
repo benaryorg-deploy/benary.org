@@ -1,0 +1,77 @@
+body
+{
+	background-color:#040404;
+	font-size:17px;
+	line-height:19px;
+}
+
+.container > .row
+{
+    margin:0 5px;
+}
+
+#title
+{
+    margin-top:15px;
+    width:100%;
+	border-radius:5px;
+	line-height:1.3em;
+}
+
+#center
+{
+    float:right;
+    margin-top:1.25%;
+	padding:1%;
+	border-radius:10px;
+	background-color:#181818;
+	color:#aaa;
+	text-align:justify;
+}
+
+#center [href]
+{
+	text-decoration:none;
+	color:#666;
+}
+
+#center [href]:visited
+{
+	color:#666;
+}
+
+#menu
+{
+    margin-top:1.25%;
+	padding:1%;
+	border-radius:10px;
+	background-color:#222;
+	font-family:"Tahoma";
+	line-height:1.3em;
+	transition:background 1s ease 0s;
+}
+
+#menu:hover
+{
+	background-color:#040404;
+}
+
+#menu [href]
+{
+	position:relative;
+	right:-10px;
+	color:#777;
+	text-decoration:none;
+	transition:color 0.3s linear 0s,right 1s ease 0s;
+}
+
+#menu [href]:hover
+{
+	color:#ddd;
+	right:10px;
+}
+#menu [href]:hover:after
+{
+	content:' ·';
+}
+

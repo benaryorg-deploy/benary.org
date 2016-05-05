@@ -1,0 +1,224 @@
+{
+	"me":
+	{
+		"name": ["cat","Katze","Bene","benaryorg","benary"],
+		"pronoun": "she",
+		"tags": ["crazy","developer","cat"],
+		"personality":
+		{
+			"description":
+			[
+				"A little cat, stuck in this world, trying to make the best out of it.",
+				"",
+				"Also I am a quite good developer, at least that's what the people say",
+				"about me.  I myself just try to do what I like."
+			],
+			"life goal": "Stay Alive",
+			"behaviour":
+			{
+				"rules":
+				{
+					"cat rules":
+					[
+						"grooming can be simple",
+						"be light on your feet",
+						"say No to strangers",
+						"own your laziness",
+						"love your body",
+						"don't try so hard",
+						"know when to treat yourself"
+					]
+				}
+			}
+		},
+		"employment":
+		{
+			"position": "student",
+			"availableforhire":
+			{
+				"conditions":
+				[
+					"something I like",
+					"interesting work",
+					"not Java"
+				]
+			}
+		},
+		"location": "Austria",
+		"education":
+		{
+			"school":
+			{
+				"current":
+				{
+					"type": "HTL",
+					"specialisation": "Information Technology",
+					"grade": 4
+				}
+			},
+			"certifications":
+			[
+				{
+					"name": "LPIC-1",
+					"result":
+					{
+						"passed": true
+					}
+				},
+				{
+					"name": "BEC Vantage",
+					"result":
+					{
+						"passed": true,
+						"grade": "A"
+					}
+				}
+			]
+		}
+	},
+
+	"interests":
+	{
+		"programming":
+		{
+			"languages":
+			{
+				"compiled":
+				{
+					"binary": ["Assembly","Rust","C","C++"],
+					"bytecode": ["Python","Java"]
+				},
+				"interpreted": ["JavaScript","QML","make","sh/bash","sed","PHP","LaTeX"],
+				"markup": ["MarkDown","XML","HTML"],
+				"data": ["SQL"],
+				"esoteric": ["Befunge","Brainfuck"]
+			},
+			"environment":
+			{
+				"platform":
+				{
+					"operating system": "GNU",
+					"kernel": "Linux",
+					"distribution": "Gentoo",
+					"architecture": "x86_64"
+				},
+				"ide":
+				{
+					"editor":
+					[
+						"vim",
+						"qt-creator"
+					],
+					"tools": ["cargo","scons","make"]
+				},
+				"browser": "firefox",
+				"desktop": "enlightenment"
+			},
+			"projects":
+			[
+				{
+					"name": "Rust",
+					"status": "following its development and fix"
+				}
+			]
+		}
+	},
+
+	"preferences":
+	{
+		"likes":
+		{
+			"music":
+			{
+				"AC/DC":
+				[
+					"everything"
+				],
+				"soundtracks":
+				[
+					"Portal",
+					"The Legend of Zelda",
+					"The Hitchhikers Guide To The Galaxy",
+					"Super Mario",
+					"BrÃtal Legend",
+					"Team Fortress",
+					"Cubemen",
+					"BattleBlock Theater",
+					"Super Hexagon"
+				],
+				"genres": ["Rock","Metal"],
+				"others":
+				{
+					"Joan Jett And The Blackhearts": ["I Love Rock N Roll"],
+					"White Stripes": ["Seven Nation Army"],
+					"Deep Purple": ["Smoke on the Water"],
+					"AWOLNATION": ["Sail"],
+					"Rolling Stones": ["Satisfaction"],
+					"Haddaway": ["What is Love"],
+					"Daniel Powter": ["Bad Day"],
+					"Fii": ["Power to the People"],
+					"Deichkind": ["Bück dich hoch","Leider Geil"]
+				}
+			},
+			"games":
+			[
+				"Brütal Legend",
+				"Portal",
+				"Super Smash Bros (N64)",
+				"Team Fortress 2",
+				"The Stanley Parable",
+				"Super Meat Boy",
+				"Screencheat",
+				"Kerbal Space Program",
+				"Dota 2",
+				"Uplink",
+				"Krautscape",
+				"Antichamber",
+				"TIS-100",
+				"Ace of Spades (Beta)",
+				"FTL:  Faster Than Light",
+				"BattleBlock Theater",
+				"XCOM:  Enemy Unknown",
+				"AI War:  Fleet Command",
+				"Planetary Annihilation",
+				"Game Dev Tycoon",
+				"Prison Architect",
+				"Rogue Legacy",
+				"Distance",
+				"Space Pirates and Zombies",
+				"Pixel Piracy",
+				"Orbital Gear",
+				"Paranautical Activity",
+				"Gang Beasts"
+			]
+		}
+	},
+
+	"contact":
+	{
+		"website": "benary.org",
+
+		"emails":
+		{
+			"binary@benary.org":
+			{
+				"description": "everyday email",
+				"encryption":
+				{
+					"preferred": true,
+					"fingerprint": "4A1B 3155 6D86 7198 1370  C471 D007 3D31 AB13 D7F8"
+				}
+			}
+		},
+
+		"networks":
+		{
+			"StackOverflow": "benaryorg",
+			"GitHub": "benaryorg",
+			"Twitter": "@benaryorg",
+			"Steam": "benaryorg",
+			"XMPP": "benaryorg@dukgo.com"
+		}
+	}
+}
+
