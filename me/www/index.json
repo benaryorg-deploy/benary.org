@@ -116,10 +116,9 @@
 				{
 					"editor":
 					[
-						"vim",
-						"qt-creator"
+						"vim"
 					],
-					"tools": ["cargo","scons","make"]
+					"tools": ["cargo","scons","make","npm","qmake"]
 				},
 				"browser": "firefox",
 				"desktop": "enlightenment"
