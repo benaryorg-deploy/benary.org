@@ -38,9 +38,19 @@
 			{
 				"conditions":
 				[
-					"something I like",
-					"interesting work",
+					"operating system of choice",
+					"work environment supports happiness",
+					"only part-time",
+					"OSS-development at home possible",
+					"relatively fast internet",
+					"own devices usable",
 					"not Java"
+				],
+				"positions":
+				[
+					"systems architect",
+					"sysadmin",
+					"backend developer"
 				]
 			}
 		},
