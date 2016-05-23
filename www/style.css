@@ -7,21 +7,21 @@ body
 
 .container > .row
 {
-    margin:0 5px;
+	margin:0 5px;
 }
 
 #title
 {
-    margin-top:15px;
-    width:100%;
+	margin-top:15px;
+	width:100%;
 	border-radius:5px;
 	line-height:1.3em;
 }
 
 #center
 {
-    float:right;
-    margin-top:1.25%;
+	float:right;
+	margin-top:1.25%;
 	padding:1%;
 	border-radius:10px;
 	background-color:#181818;
@@ -42,7 +42,7 @@ body
 
 #menu
 {
-    margin-top:1.25%;
+	margin-top:1.25%;
 	padding:1%;
 	border-radius:10px;
 	background-color:#222;
