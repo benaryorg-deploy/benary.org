@@ -33,7 +33,7 @@
 		},
 		"employment":
 		{
-			"position": "student",
+			"position": "none",
 			"availableforhire":
 			{
 				"conditions":
@@ -63,7 +63,7 @@
 				{
 					"type": "HTL",
 					"specialisation": "Information Technology",
-					"grade": 4
+					"grade": 3
 				}
 			},
 			"certifications":
