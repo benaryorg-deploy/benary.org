@@ -139,35 +139,19 @@
 		{
 			"music":
 			{
-				"AC/DC":
+				"genres":
 				[
-					"everything"
+					"Rock",
+					"Hard Rock",
+					"Metal",
+					"Heavy Metal",
+					"soundtracks"
 				],
-				"soundtracks":
+				"bands":
 				[
-					"Portal",
-					"The Legend of Zelda",
-					"The Hitchhikers Guide To The Galaxy",
-					"Super Mario",
-					"BrÃtal Legend",
-					"Team Fortress",
-					"Cubemen",
-					"BattleBlock Theater",
-					"Super Hexagon"
-				],
-				"genres": ["Rock","Metal"],
-				"others":
-				{
-					"Joan Jett And The Blackhearts": ["I Love Rock N Roll"],
-					"White Stripes": ["Seven Nation Army"],
-					"Deep Purple": ["Smoke on the Water"],
-					"AWOLNATION": ["Sail"],
-					"Rolling Stones": ["Satisfaction"],
-					"Haddaway": ["What is Love"],
-					"Daniel Powter": ["Bad Day"],
-					"Fii": ["Power to the People"],
-					"Deichkind": ["Bück dich hoch","Leider Geil"]
-				}
+					"AC/DC",
+					"Kiss"
+				]
 			},
 			"games":
 			[
