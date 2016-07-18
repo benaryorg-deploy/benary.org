@@ -174,30 +174,14 @@
 	},
 
 	"contact":
-	{
-		"website": "benary.org",
-
-		"emails":
-		{
-			"binary@benary.org":
-			{
-				"description": "everyday email",
-				"encryption":
-				{
-					"preferred": true,
-					"fingerprint": "4A1B 3155 6D86 7198 1370  C471 D007 3D31 AB13 D7F8"
-				}
-			}
-		},
-
-		"networks":
-		{
-			"StackOverflow": "benaryorg",
-			"GitHub": "benaryorg",
-			"Twitter": "@benaryorg",
-			"Steam": "benaryorg",
-			"XMPP": "benaryorg@dukgo.com"
-		}
-	}
+	[
+		"https://benary.org",
+		"mailto:binary@benary.org",
+		"stackoverflow://benaryorg",
+		"github://benaryorg",
+		"twitter://benaryorg",
+		"steam://benaryorg",
+		"xmpp://benaryorg@dukgo.com"
+	]
 }
 
