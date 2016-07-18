@@ -54,7 +54,11 @@
 				]
 			}
 		},
-		"location": "Austria",
+		"location":
+		{
+			"country": "Germany",
+			"city": "Berlin"
+		},
 		"education":
 		{
 			"school":
