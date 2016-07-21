@@ -182,6 +182,11 @@
 		"twitter://benaryorg",
 		"steam://benaryorg",
 		"xmpp://benaryorg@dukgo.com"
-	]
+	],
+
+	"signature":
+	{
+		"rsa": "D0073D31AB13D7F8"
+	}
 }
 
