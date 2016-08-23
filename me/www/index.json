@@ -99,7 +99,7 @@
 			{
 				"compiled":
 				{
-					"binary": ["Assembly","Rust","C","C++"],
+					"binary": ["Assembly","Haskell","Rust","C","C++"],
 					"bytecode": ["Python","Java"]
 				},
 				"interpreted": ["JavaScript","QML","make","sh/bash","sed","PHP","LaTeX"],
