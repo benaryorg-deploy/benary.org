@@ -126,14 +126,7 @@
 				},
 				"browser": "firefox",
 				"desktop": "enlightenment"
-			},
-			"projects":
-			[
-				{
-					"name": "Rust",
-					"status": "following its development and fix"
-				}
-			]
+			}
 		}
 	},
 
