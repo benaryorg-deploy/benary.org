@@ -102,7 +102,7 @@
 					"binary": ["Assembly","Haskell","Rust","C","C++"],
 					"bytecode": ["Python","Java"]
 				},
-				"interpreted": ["JavaScript","QML","make","sh/bash","sed","PHP","LaTeX"],
+				"interpreted": ["JavaScript","QML","make","sh/bash","PHP","LaTeX"],
 				"markup": ["MarkDown","XML","HTML"],
 				"data": ["SQL"],
 				"esoteric": ["Befunge","Brainfuck"]
