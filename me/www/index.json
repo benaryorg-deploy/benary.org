@@ -126,7 +126,13 @@
 				},
 				"browser": "firefox",
 				"desktop": "enlightenment"
-			}
+			},
+			"focus":
+			[
+				"security",
+				"scalability",
+				"stability"
+			]
 		}
 	},
 
