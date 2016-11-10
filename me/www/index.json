@@ -61,11 +61,12 @@
 		{
 			"school":
 			{
-				"current":
+				"last":
 				{
 					"type": "HTL",
 					"specialisation": "Information Technology",
-					"grade": 3
+					"years of service": 4,
+					"graduation":false
 				}
 			},
 			"certifications":
