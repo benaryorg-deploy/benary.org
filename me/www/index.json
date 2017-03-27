@@ -29,29 +29,26 @@
 				}
 			}
 		},
-		"employment":
-		{
-			"position": "none",
-			"availableforhire":
+		"occupations":
+		[
 			{
-				"conditions":
-				[
-					"operating system of choice",
-					"work environment supports happiness",
-					"only part-time",
-					"OSS-development at home possible",
-					"relatively fast internet",
-					"own devices usable",
-					"not Java"
-				],
-				"positions":
-				[
-					"systems architect",
-					"sysadmin",
-					"backend developer"
-				]
+				"position": "Intern",
+				"institution": "DVT – Datenverarbeitung Tirol",
+				"time":
+				{
+					"from": "2015-07-01",
+					"to": "2015-07-31"
+				}
+			},
+			{
+				"position": "Junior Systems Engineer – Linux",
+				"institution": "SysEleven GmbH",
+				"time":
+				{
+					"from": "2016-12-01"
+				}
 			}
-		},
+		],
 		"location":
 		{
 			"country": "Germany",
