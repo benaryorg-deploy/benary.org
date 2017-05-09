@@ -114,10 +114,7 @@
 				},
 				"ide":
 				{
-					"editor":
-					[
-						"vim"
-					],
+					"editor": "vim",
 					"tools": ["cargo","cabal","cmake","scons","make","npm","qmake"]
 				},
 				"browser": "firefox",
