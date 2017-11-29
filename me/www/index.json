@@ -169,6 +169,7 @@
 	, "twitter://benaryorg"
 	, "steam://benaryorg"
 	, "xmpp://binary@benary.org"
+	, "discord://benaryorg#3554"
 	],
 
 	"signature":
