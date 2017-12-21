@@ -172,6 +172,8 @@
 	, "discord://benaryorg#3554"
 	],
 
+	"recursion": "https://me.benary.org",
+
 	"signature":
 	{
 		"rsa": "D0073D31AB13D7F8"
