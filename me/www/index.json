@@ -106,9 +106,12 @@
 			{
 				"platform":
 				{
-					"operating system": "GNU",
-					"kernel": "Linux",
-					"distribution": "Gentoo",
+					"operating systems":
+					[ "GNU/Linux"
+					, "OpenBSD"
+					, "Dragonfly BSD"
+					, "FreeBSD"
+					]
 					"architecture": "x86_64"
 				},
 				"ide":
