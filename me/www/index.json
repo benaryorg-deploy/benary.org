@@ -105,15 +105,14 @@
 			"environment":
 			{
 				"platform":
-				{
-					"operating systems":
-					[ "GNU/Linux"
-					, "OpenBSD"
-					, "Dragonfly BSD"
-					, "FreeBSD"
-					]
-					"architecture": "x86_64"
-				},
+					{ "operating systems":
+							[ "GNU/Linux"
+							, "OpenBSD"
+							, "Dragonfly BSD"
+							, "FreeBSD"
+							]
+					, "architecture": "x86_64"
+					},
 				"ide":
 				{
 					"editor": "vim",
