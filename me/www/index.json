@@ -1,22 +1,17 @@
-{
-	"me":
-	{
-		"name": ["cat","Katze","ben","benaryorg","benary"],
-		"pronoun": "she",
-		"tags": ["crazy","developer","cat"],
-		"personality":
-		{
-			"description":
+{ "me":
+	{ "name": ["cat","Katze","ben","benaryorg","benary"]
+	, "pronoun": "she"
+	, "tags": ["crazy","developer","cat"]
+	, "personality":
+		{ "description":
 			[ "A little cat, stuck in this world, trying to make the best out of it."
 			, "I collect knowledge and try to put it to good use. I found a lot of it already."
 			, "I am constantly trying to build everything as secure as possible."
-			],
-			"life goal": "find someone to share the joys of life with",
-			"behaviour":
-			{
-				"rules":
-				{
-					"cat rules":
+			]
+		, "life goal": "find someone to share the joys of life with"
+		, "behaviour":
+			{ "rules":
+				{ "cat rules":
 					[ "grooming can be simple"
 					, "be light on your feet"
 					, "say No to strangers"
@@ -27,129 +22,108 @@
 					]
 				}
 			}
-		},
-		"occupations":
+		}
+	, "occupations":
 		[
-			{
-				"position": "Intern",
-				"institution": "DVT – Datenverarbeitung Tirol",
-				"time":
-				{
-					"from": "2015-07-01",
-					"to": "2015-07-31"
+			{ "position": "Intern"
+			, "institution": "DVT – Datenverarbeitung Tirol"
+			, "time":
+				{ "from": "2015-07-01"
+				, "to": "2015-07-31"
 				}
 			},
-			{
-				"position": "Junior Systems Engineer – Linux",
-				"institution": "SysEleven GmbH",
-				"time":
-				{
-					"from": "2016-12-01"
+			{ "position": "Junior Systems Engineer – Linux"
+			, "institution": "SysEleven GmbH"
+			, "time":
+				{ "from": "2016-12-01"
 				}
 			}
-		],
-		"location":
-		{
-			"country": "Germany",
-			"city": "Berlin"
-		},
-		"education":
-		{
-			"school":
-			{
-				"last":
-				{
-					"type": "HTL",
-					"specialisation": "Information Technology",
-					"years of service": 4,
-					"graduation": false
+		]
+	, "location":
+		{ "country": "Germany"
+		, "city": "Berlin"
+		}
+	, "education":
+		{ "school":
+			{ "last":
+				{ "type": "HTL"
+				, "specialisation": "Information Technology"
+				, "years of service": 4
+				, "graduation": false
 				}
-			},
-			"certifications":
+			}
+		, "certifications":
 			[
-				{
-					"name": "LPIC-1",
-					"result":
-					{
-						"passed": true
+				{ "name": "LPIC-1"
+				, "result":
+					{ "passed": true
 					}
 				},
-				{
-					"name": "BEC Vantage",
-					"result":
-					{
-						"passed": true,
-						"grade": "A"
+				{ "name": "BEC Vantage"
+				, "result":
+					{ "passed": true
+					, "grade": "A"
 					}
 				}
 			]
 		}
-	},
+	}
 
-	"interests":
-	{
-		"programming":
-		{
-			"languages":
-			{
-				"compiled":
-				{
-					"binary": ["Assembly","Haskell","Rust","C","C++"],
-					"bytecode": ["Python","Java"]
-				},
-				"interpreted": ["JavaScript","QML","make","sh/bash","PHP","LaTeX"],
-				"markup": ["MarkDown","XML","HTML"],
-				"data": ["SQL"],
-				"esoteric": ["Befunge","Brainfuck"]
-			},
-			"environment":
-			{
-				"platform":
-					{ "operating systems":
-							[ "GNU/Linux"
-							, "OpenBSD"
-							, "Dragonfly BSD"
-							, "FreeBSD"
-							]
-					, "architecture": "x86_64"
-					},
-				"ide":
-				{
-					"editor": "vim",
-					"tools": ["cargo","cabal","cmake","scons","make","npm","qmake","stack"]
-				},
-				"browser": "firefox",
-				"desktop": "enlightenment"
-			},
-			"focus":
+, "interests":
+	{ "programming":
+		{ "languages":
+			{ "compiled":
+				{ "binary": ["Assembly","Haskell","Rust","C","C++"]
+				, "bytecode": ["Python","Java"]
+				}
+			, "interpreted": ["JavaScript","QML","make","sh/bash","PHP","LaTeX"]
+			, "markup": ["MarkDown","XML","HTML"]
+			, "data": ["SQL"]
+			, "esoteric": ["Befunge","Brainfuck"]
+			}
+		, "environment":
+			{ "platform":
+				{ "operating systems":
+					[ "GNU/Linux"
+					, "OpenBSD"
+					, "Dragonfly BSD"
+					, "FreeBSD"
+					]
+				, "architecture": "x86_64"
+				}
+			, "ide":
+				{ "editor": "vim"
+				, "tools": ["cargo","cabal","cmake","scons","make","npm","qmake","stack"]
+				}
+			, "browser": "firefox"
+			, "desktop": "enlightenment"
+			}
+		, "focus":
 			[ "security"
 			, "scalability"
 			, "stability"
 			]
 		}
-	},
+	}
 
-	"preferences":
-	{
-		"likes":
-		{
-			"music":
-			{
-				"genres":
+, "preferences":
+	{ "likes":
+		{ "music":
+			{ "genres":
 				[ "Rock"
 				, "Hard Rock"
 				, "Metal"
 				, "Heavy Metal"
 				, "soundtracks"
-				],
-				"bands":
+				]
+			, "bands":
 				[ "AC/DC"
 				, "Kiss"
 				, "Ozzy Osbourne"
 				, "Rammstein"
 				]
-			},
-			"games":
+			}
+		, "games":
 			[ "NieR:Automata"
 			, "Portal"
 			, "Far Cry"
@@ -163,9 +137,9 @@
 			, "BattleBlock Theater"
 			]
 		}
-	},
+	}
 
-	"contact":
+, "contact":
 	[ "https://benary.org"
 	, "mailto:binary@benary.org"
 	, "stackoverflow://benaryorg"
@@ -174,15 +148,14 @@
 	, "steam://benaryorg"
 	, "xmpp://binary@benary.org"
 	, "discord://benaryorg#3554"
-	],
+	]
 
-	"recursion": "https://me.benary.org",
+, "recursion": "https://me.benary.org"
 
-	"source": "https://github.com/benaryorg-deploy/benary.org/tree/master/me/www",
+, "source": "https://github.com/benaryorg-deploy/benary.org/tree/master/me/www"
 
-	"signature":
-	{
-		"rsa": "D0073D31AB13D7F8"
+, "signature":
+	{ "rsa": "D0073D31AB13D7F8"
 	}
 }
 
