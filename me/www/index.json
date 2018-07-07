@@ -1,7 +1,7 @@
 { "me":
 	{ "name": ["Katze","cat","benaryorg","benary"]
 	, "pronoun": "she"
-	, "tags": ["crazy","developer","cat"]
+	, "tags": ["crazy","sysadmin","developer","cat"]
 	, "personality":
 		{ "description":
 			[ "A little cat, stuck in this world, trying to make the best out of it."
