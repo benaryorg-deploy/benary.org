@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/katze
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://benary.org
+  * I am katze (https://keybase.io/katze) on keybase.
+  * I have a public key with fingerprint 6668 5437 4A5D 8843 7FA4  6B44 7A06 724E 5B00 E546
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116018737d4dfe60233e9f48c10a15e6b897d868065d94baf028da1801e9e9ebab30a",
+      "fingerprint": "666854374a5d88437fa46b447a06724e5b00e546",
+      "host": "keybase.io",
+      "key_id": "7a06724e5b00e546",
+      "kid": "0116018737d4dfe60233e9f48c10a15e6b897d868065d94baf028da1801e9e9ebab30a",
+      "uid": "dc749ccf75692d300fc76b57e7b8ff19",
+      "username": "katze"
+    },
+    "merkle_root": {
+      "ctime": 1545855810,
+      "hash_meta": "472e5f5a6bdb6f068c08bc74ad3c9eae67f09125c9fd8c0adf628eff0f46e834",
+      "seqno": 4196929
+    },
+    "revoke": {
+      "sig_ids": [
+        "b08e726625c74a3f18b1e4ddb5fe20d64b832986601e9f242cb46d7f55b6e73c0f"
+      ]
+    },
+    "service": {
+      "hostname": "benary.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1545855940,
+  "expire_in": 157680000,
+  "prev": "878fda0d9698fa53fdfa685de9c9474ea69930b1266f54f51a637c2ddace0c45",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUz1oFEEUvmgMMWIUhOuCuAarEGZ35/cQBJUUIkkjpojhnJ83d8slu+fu5jSJ
+QdAmIqKNjYKVIBhsU1gFsVC0EmtRREQr7QQb3x4JIli6W+zsm+9973vfm7m7f3dt
+uL4ylE/P1T5PDbz+amoXjn56uRqYzC0HjdWgA/0PLDgoymYncUEjIGHISShFLBx1
+HjiJ4hiUp9KGRIcMuJFKOMkl4cwparQnkXQ6lCQEha/RJiY6mAh8krYg7+ZJWiIt
+51wyGguqmZMSF15TbigVmnARUWCGEGCUY2I7K6oMFGd0AZNJhjH8afbl/QP/n3Uv
+9emcFVRZ6wXjKnIxId4KbpgAYaT3oaqABeSpXoRKqy5XIFibCBYh7yxAM8+ysnLW
+lkm1HzLKJGMyJNidLtrNRSg1plERAfNMc+MM94RLS6TBwtrFVoEGLjxRYcSs8g73
+tPM8kuA98ZSDjCmKKOBSmgUNGirUqVBBDr2sA1XxImmhZ0XQmAsMkSAivpVzJEP+
+2IfShECdM8xDRBynRsaRkpxXdviIRtZQ7oRnzHAQsSU+mF+ryuW9xPbpqzFtt28g
+1fnyZJa3UFE3z8rMZgsYb5dlt2hUvpTL3Qp4GUxzm6JpktThEcGMHuRFkqXoEyL/
+tkxRtAyudJMcmkmFYAIniE9VB3pIKYX0ThOH/UuvWeyd13jUHCirqKCguVIxMWHE
+uWfUs1DzWNjIOW2BWMr+eFhNp9Qt5ETnUl0u5TjSkfWlwVp9uDZWPzLo2+fEmfn1
+U9cedU7v3Ko9u6orVRvZe3AnkswO1O6Mi5M/3py/uTXzcXP67a3HGzeG7POsfvjb
++4sPpp7yfbVfg8dvt2e+tMfHrp94trlxdfT+93s/3x069uHh6NlXT2ZfHPgN
+=IZXa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/katze
+
+==================================================================
+
