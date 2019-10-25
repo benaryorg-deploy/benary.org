@@ -76,7 +76,7 @@
 				{ "binary": ["Assembly","Haskell","Rust","C","C++"]
 				, "bytecode": ["Python","Java"]
 				}
-			, "interpreted": ["JavaScript","QML","make","sh/bash","PHP","LaTeX"]
+			, "interpreted": ["JavaScript","QML","make","shell","PHP","LaTeX"]
 			, "markup": ["MarkDown","XML","HTML"]
 			, "data": ["SQL"]
 			, "esoteric": ["Befunge","Brainfuck"]
@@ -93,10 +93,10 @@
 				}
 			, "ide":
 				{ "editor": "vim"
-				, "tools": ["cargo","cabal","cmake","scons","make","npm","qmake","stack"]
+				, "tools": ["cargo","cabal","cmake","scons","make","npm","qmake","stack","rmarkdown"]
 				}
 			, "browser": "firefox"
-			, "desktop": "enlightenment"
+			, "desktop": "awesome-wm"
 			}
 		, "focus":
 			[ "security"
