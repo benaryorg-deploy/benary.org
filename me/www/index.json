@@ -151,6 +151,7 @@
 	, "steam://benaryorg"
 	, "xmpp://binary@benary.org"
 	, "discord://benaryorg#3554"
+	, "twitch://benaryorg"
 	]
 
 , "recursion": "https://me.benary.org"
