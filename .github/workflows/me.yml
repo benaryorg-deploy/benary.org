@@ -1,0 +1,13 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Install Dependencies
+      run: sudo apt install -y yajl-tools
+    - name: Syntax Check
+      run: json_verify <me/www/index.json 
