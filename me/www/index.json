@@ -114,9 +114,47 @@
 					]
 				, "architecture": "x86_64"
 				}
-			, "ide":
-				{ "editor": "vim"
-				, "tools": ["cargo","cabal","cmake","scons","make","npm","qmake","stack","rmarkdown"]
+			, "ide": "vim"
+			, "tools":
+				{ "debugging":
+					[ "curl"
+					, "mtr"
+					, "nmap"
+					, "traceroute"
+					, "gdb"
+					, "openssl"
+					, "netcat"
+					, "socat"
+					, "htop"
+					, "nmon"
+					, "iftop"
+					, "iotop"
+					]
+				, "operational":
+					[ "nginx"
+					, "Apache HTTPD"
+					, "pf"
+					, "OpenSSH"
+					, "LXD"
+					, "cgroups"
+					, "Linux"
+					, "SSL/TLS"
+					, "git"
+					, "mtail"
+					, "IPv6"
+					]
+				, "data":
+					[ "jq"
+					, "sqlite"
+					, "grep"
+					, "awk"
+					, "perl"
+					, "pandoc"
+					]
+				, "convenience":
+					[ "coreutils"
+					, "moreutils"
+					]
 				}
 			, "browser": "firefox"
 			, "desktop": "awesome-wm"
