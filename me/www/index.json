@@ -71,7 +71,7 @@
 	}
 
 , "interests":
-	{ "programming":
+	{ "tech":
 		{ "languages":
 			{ "compiled":
 				{ "binary": ["Assembly","Haskell","Rust","C","C++"]
@@ -105,42 +105,36 @@
 			, "stability"
 			]
 		}
-	}
-
-, "preferences":
-	{ "likes":
-		{ "music":
-			{ "genres":
-				[ "Rock"
-				, "Hard Rock"
-				, "Metal"
-				, "Heavy Metal"
-				, "soundtracks"
-				]
-			, "bands":
-				[ "AC/DC"
-				, "Kiss"
-				, "AWOLNATION"
-				, "Harry Callaghan"
-				, "Ozzy Osbourne"
-				, "Rammstein"
-				]
-			}
-		, "games":
-			[ "Crystalline"
-			, "NieR:Automata"
-			, "Portal"
-			, "Far Cry"
-			, "Brütal Legend"
-			, "Team Fortress 2"
-			, "Stardew Valley"
-			, "Saints Row"
-			, "The Stanley Parable"
-			, "Antichamber"
-			, "FTL: Faster Than Light"
-			, "BattleBlock Theater"
+	, "music":
+		{ "genres":
+			[ "Rock"
+			, "Hard Rock"
+			, "Metal"
+			, "Heavy Metal"
+			, "soundtracks"
+			]
+		, "bands":
+			[ "AC/DC"
+			, "Kiss"
+			, "AWOLNATION"
+			, "Harry Callaghan"
+			, "Ozzy Osbourne"
+			, "Rammstein"
 			]
 		}
+	, "games":
+		[ "NieR:Automata"
+		, "Cyberpunk 2077"
+		, "Portal"
+		, "Brütal Legend"
+		, "BattleBlock Theater"
+		, "Far Cry 4"
+		, "The Stanley Parable"
+		, "Antichamber"
+		, "Team Fortress 2"
+		, "FTL: Faster Than Light"
+		, "Saints Row"
+		]
 	}
 
 , "contact":
