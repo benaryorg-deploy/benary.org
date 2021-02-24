@@ -154,6 +154,8 @@
 				, "convenience":
 					[ "coreutils"
 					, "moreutils"
+					, "graphviz"
+					, "ffmpeg"
 					]
 				}
 			, "browser": "firefox"
