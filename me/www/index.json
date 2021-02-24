@@ -73,14 +73,36 @@
 , "interests":
 	{ "tech":
 		{ "languages":
-			{ "compiled":
-				{ "binary": ["Assembly","Haskell","Rust","C","C++"]
-				, "bytecode": ["Python","Java"]
-				}
-			, "interpreted": ["JavaScript","QML","make","shell","PHP","LaTeX"]
-			, "markup": ["MarkDown","XML","HTML"]
-			, "data": ["SQL"]
-			, "esoteric": ["Befunge","Brainfuck"]
+			{ "proficient":
+				[ "Rust"
+				, "C"
+				, "shell"
+				, "Markdown"
+				, "SQL"
+				, "jq"
+				, "make"
+				, "pf"
+				, "Java"
+				, "Python"
+				, "JavaScript"
+				, "Brainfuck"
+				, "XML"
+				, "Puppet"
+				]
+			, "rusty":
+				[ "Assembly"
+				, "Python"
+				, "Haskell"
+				, "QML"
+				, "LaTeX"
+				, "HTML"
+				, "C++"
+				]
+			, "basics":
+				[ "Perl"
+				, "PHP"
+				, "Lua"
+				]
 			}
 		, "environment":
 			{ "platform":
